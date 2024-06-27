@@ -1,0 +1,9 @@
+streamlit
+crewai
+langchain
+openai
+google-cloud-aiplatform
+duckduckgo-search
+google-search-results
+python-dotenv
+langchain_community
